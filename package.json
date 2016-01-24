@@ -1,0 +1,17 @@
+{
+  "name": "redux-d3",
+  "version": "0.0.1",
+  "description": "redux with d3",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "d3"
+  ],
+  "author": "waynelkh",
+  "license": "MIT"
+}
